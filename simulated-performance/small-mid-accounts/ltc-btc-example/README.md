@@ -5,6 +5,6 @@ we simulated for a 2 month timeframe with stats:
 
 **max profit:** 22.05%
 
-**max loss:** 0.528%
+**max loss:** -0.528%
 
 **time frame:** 02/01/28 - 03/31/19
