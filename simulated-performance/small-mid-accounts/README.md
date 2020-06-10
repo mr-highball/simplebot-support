@@ -1,0 +1,1 @@
+examples found here are for small to mid sized accounts ($100 - $3kish) range for various scenarious

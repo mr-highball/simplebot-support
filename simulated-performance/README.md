@@ -1,0 +1,2 @@
+here you will find simulated exports for various account types and timeframes. for each dataset a sample config is provided which is what was
+used for the run. you may use these as a starting point (or just use them as-is at your own risk)
