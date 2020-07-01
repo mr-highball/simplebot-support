@@ -1,0 +1,2 @@
+the example shown here is one to "farm" volume on a cheap coin in order to reduce the fees. with a simulated 500 USDC, the daily average
+volume is ~2k and for the timeframe ~36k. Although the ending loss is $25, generally this will be made up when running an additional simple-bot that seeks higher profits.
