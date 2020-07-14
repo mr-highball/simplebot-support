@@ -1,0 +1,40 @@
+{
+  "TApplication" : {
+    "SimpleBot" : {
+      "secret" : "aaaaaa",
+      "key" : "aaaaaaaa",
+      "pass" : "aaaaaaa",
+      "funds" : "500",
+      "sandbox_mode" : "0",
+      "aac" : "0",
+      "completed_orders" : "0",
+      "funds_ledger" : "500",
+      "holds_ledger" : "0",
+      "inventory_ledger" : "0",
+      "inventory_holds_ledger" : "0",
+      "market_fee" : "0.002499999944",
+      "limit_fee" : "0.001500000013",
+      "high_window_size" : "89856000",
+      "high_position_size" : "0.0509499982",
+      "high_dca_size" : "0.01491999999",
+      "high_take_profit" : "0.001000000047",
+      "high_min_reduction" : "0.00009999999747",
+      "high_min_reduction_downtrend" : "0.00009999999747",
+      "market_buy" : "False",
+      "market_sell" : "False",
+      "buy_uptrend" : "True",
+      "buy_downtrend" : "True",
+      "ignore_uptrend" : "False",
+      "ignore_downtrend" : "False",
+      "high_sell_position_size" : "0.0509499982",
+      "max_uptrend_fund_usage" : "0.65",
+      "max_downtrend_fund_usage" : "0.5",
+      "scaled_buy_percent" : "4",
+      "bobber_funds" : "0.3",
+      "bobber_threshold" : "0.02",
+      "bobber_mode" : "0",
+      "bobber_limit_buy" : "True",
+      "bobber_limit_sell" : "True"
+    }
+  }
+}
