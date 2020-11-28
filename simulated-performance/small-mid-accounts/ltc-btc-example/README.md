@@ -1,4 +1,4 @@
-this example was tailored to a client wishing to capture swings against the ltc-btc ratio and had more of a mid-long term prospect for both coins.
+this example was tailored to a user wishing to capture swings against the ltc-btc ratio and had more of a mid-long term prospect for both coins.
 we simulated for a 2 month timeframe with stats:
 
 **ending profit:** 17.45%
