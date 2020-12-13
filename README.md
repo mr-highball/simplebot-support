@@ -12,6 +12,9 @@ see the [Getting Started](https://github.com/mr-highball/simplebot-support/wiki/
 * [Features Board](https://github.com/mr-highball/simplebot-support/projects/2)
 * [Report Bug / Request Feature](https://github.com/mr-highball/simplebot-support/issues) (read the getting started if you're new)
 
+## General Questions, Feedback, Ideas?
+checkout the [Discussions](https://github.com/mr-highball/simplebot-support/discussions) page
+
 ## Source Code
 
 this repo is split out to offer a user's guide to the SimpleBot program and for feature requests but actually lives in the below repo. this is to keep core engine changes separate and easier to track for my sake.
