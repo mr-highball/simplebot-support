@@ -1,6 +1,8 @@
 # simplebot-support
 a place to learn how to configure and use the SimpleBot trading program, as well as report any issues encountered
 
+for the latest pre-built release go [here](https://github.com/mr-highball/simplebot-support/releases)
+
 ![](https://github.com/mr-highball/simplebot-support/blob/master/screenshots/clean_auth_screen.png)
 ![](https://github.com/mr-highball/simplebot-support/blob/master/screenshots/clean_strategy.png)
 
